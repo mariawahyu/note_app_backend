@@ -1,2 +1,4 @@
 node_modules
 web-server-dicoding-api-notes.pem
+.env
+.prod.env
